@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+header{
+  display: flex;
+
+
+  background-color: antiquewhite;
+}
+div{
+  background-color: tomato;
+
+  margin: 15px;
+  padding: 15px;
+}
+.logo{
+  margin-left: auto;
+}
